@@ -179,6 +179,6 @@ Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/G
 [product-screenshot]: images/screenshot.png
 
 <!-- SUPPORT -->
-## :man_astronaut: Show your support
+## Support
 
 Give a ⭐️ if this project helped you!
