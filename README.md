@@ -36,6 +36,7 @@ Third stage: Machine Learning.
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#support">Support</a></li>
   </ol>
 </details>
 
@@ -137,9 +138,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - Gal - koazgal@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/GalKoaz/Final-assignment)
 
 
 
@@ -176,3 +177,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+
+<!-- SUPPORT -->
+## :man_astronaut: Show your support
+
+Give a ⭐️ if this project helped you!
