@@ -34,6 +34,7 @@ Final assignment data science
 
 This assignment consists of three parts when each stage has a notebook:
 
+---------
 
 ### First part: Probability.
 Within this part we were asked to solve probable questions.
@@ -148,18 +149,12 @@ Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/G
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Jupyter](https://jupyter.org/)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
-
-
+* [Matplotlib](https://matplotlib.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Anaconda](https://www.anaconda.com/)
+* [Python](https://www.python.org/)
+* [Git](https://git-scm.com/)
+* [Git-scm](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 
 
