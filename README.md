@@ -1,17 +1,4 @@
-# Final-assignment
-Final assignment data science
-
-This assignment consists of three parts :
-
-When each stage has a notebook.
-
-First stage: Probability.
-
-Second stage: Programming.
-
-Third stage: Machine Learning.
-
-
+## Final-assignment
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -20,7 +7,7 @@ Third stage: Machine Learning.
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#languages-and-tools">Languages and Tools</a></li>
       </ul>
     </li>
     <li>
@@ -33,7 +20,6 @@ Third stage: Machine Learning.
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#support">Support</a></li>
@@ -44,8 +30,19 @@ Third stage: Machine Learning.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+Final assignment data science
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This assignment consists of three parts when each stage has a notebook:
+
+
+### First part: Probability.
+Within this part we were asked to solve probable questions.
+Some of which were solved with the help of Bayes' theorem, random variables,  inference and understanding from graphs.
+
+### Second part: Programming.
+
+### Third part: Machine Learning.
+
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -58,12 +55,20 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
+### Languages and Tools:
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+<p align="center">
+
+  <div align="center">
+  
+ <code>
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+ <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+  </div>
+  </p>
 
 
 
@@ -128,17 +133,10 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Gal - koazgal@gmail.com
+ Gal - koazgal@gmail.com
 
 Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/GalKoaz/Final-assignment)
 
