@@ -62,19 +62,17 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Languages and Tools:
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-<p align="center">
   <div align="center">
   
  <code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
- <code><img src="https://jupyter.org/assets/main-logo.svg"/></code>
-  <code><img src="https://pandas.pydata.org/static/img/pandas_white.svg"/></code>
-  <code><img src="https://pandas.pydata.org/static/img/partners/anaconda.svg"/></code>
-  <code><img src="https://matplotlib.org/_static/logo2_compressed.svg"/></code>
+ <code><img height="40" src="https://jupyter.org/assets/main-logo.svg"/></code>
+  <code><img height="40" src="https://pandas.pydata.org/static/img/pandas_white.svg"/></code>
+  <code><img height="40" src="https://pandas.pydata.org/static/img/partners/anaconda.svg"/></code>
+  <code><img height="40" src="https://matplotlib.org/_static/logo2_compressed.svg"/></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   </div>
-</p>
 
 
 <!-- GETTING STARTED -->
