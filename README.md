@@ -32,7 +32,6 @@
 ## About The Project
 Final assignment data science
 
-<<<<<<< HEAD
 This assignment consists of three parts :
 
 When each stage has a notebook.
@@ -42,7 +41,7 @@ First stage: Probability.
 Second stage: Programming.
 
 Third stage: Machine Learning.
-||||||| bea5434
+
 First Stage: 
 =======
 This assignment consists of three parts when each stage has a notebook:
@@ -191,4 +190,3 @@ Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/G
 ## Support
 
 Give a ⭐️ if this project helped you!
->>>>>>> 081e1b7f74171fb102effdfe0725e051734ba295
