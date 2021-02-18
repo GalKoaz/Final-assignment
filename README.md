@@ -7,7 +7,13 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#first-part:-probability">First part: Probability</a></li>
+        <li><a href="#first-part-probability">First part: Probability</a></li>
+      </ul>
+            <ul>
+        <li><a href="#second-part-programming">Second part: Programming</a></li>
+      </ul>
+            <ul>
+        <li><a href="#third-part-machine-learning">Third part: Machine Learning</a></li>
       </ul>
        <ul>
       <li><a href="#languages-and-tools">Languages and Tools</a></li>
