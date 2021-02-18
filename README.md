@@ -7,8 +7,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#languages-and-tools">Languages and Tools</a></li>
+        <li><a href="#first_part:_probability">First part: Probability</a></li>
       </ul>
+      <li><a href="#languages-and-tools">Languages and Tools</a></li>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -42,10 +43,6 @@ Second stage: Programming.
 
 Third stage: Machine Learning.
 
-First Stage: 
-=======
-This assignment consists of three parts when each stage has a notebook:
-
 ---------
 
 ### First part: Probability.
@@ -55,7 +52,7 @@ Some of which were solved with the help of Bayes' theorem, random variables,  in
 ---------
 
 ### Second part: Programming.
-
+In this section we were asked to answer a number of questions that indicate the ability to understand and internalize what is learned throughout the course related to pandas, numpy etc...
 ---------
 
 ### Third part: Machine Learning.
