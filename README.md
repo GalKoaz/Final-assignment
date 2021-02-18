@@ -47,20 +47,20 @@ Third stage: Machine Learning.
 
 ---------
 
-## First part: Probability.
+### First part: Probability
 
 Within this part we were asked to solve probable questions.
 Some of which were solved with the help of Bayes' theorem, random variables,  inference and understanding from graphs.
 
 ---------
 
-## Second part: Programming.
+### Second part: Programming
 
 In this section we were asked to answer a number of questions that indicate the ability to understand and internalize what is learned throughout the course related to pandas, numpy etc...
 
 ---------
 
-## Third part: Machine Learning.
+### Third part: Machine Learning
 
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
