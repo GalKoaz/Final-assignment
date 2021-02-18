@@ -9,7 +9,9 @@
       <ul>
         <li><a href="#first-part:-probability">First part: Probability</a></li>
       </ul>
+       <ul>
       <li><a href="#languages-and-tools">Languages and Tools</a></li>
+         </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
