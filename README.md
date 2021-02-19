@@ -4,22 +4,26 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
+    <li><a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#languages-and-tools">Languages and Tools</a></li>
+      <li><a href="#first-part-probability">First part: Probability</a></li>
       </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+      <li><a href="#second-part-programming">Second part: Programming</a></li>
       </ul>
-    </li>
+      <ul>
+      <li><a href="#third-part-machine-learning">Third part: Machine Learning</a>
+      <ul><li>
+        <a href="#classification">Classification</a>
+      </li></ul>
+      <ul><li>
+        <a href="#regression">Regression</a>
+      </li></ul>
+      </li>
+      </ul>
+    <li><a href="#languages-and-tools">Languages and Tools</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#support">Support</a></li>
@@ -30,36 +34,30 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Final assignment data science
 
-This assignment consists of three parts :
+Introduction to Data Science Final Project 2020
 
-When each stage has a notebook.
+In this project we will use all the tools we learned during the course on machine learning, in the first stage we will deal with the ability to solve probability exercises, in the second stage we will focus on our internalization and realization of tools learned for pandas, numpy and visualization, in the last part we will focus on machine learning.
+Which includes classification and regression, ie the ability to take a data set and analyze it to predict exact values and use appropriate models for this.
 
-First stage: Probability.
-
-Second stage: Programming.
-
-Third stage: Machine Learning.
-
-First Stage: 
-=======
-This assignment consists of three parts when each stage has a notebook:
+"The world is just a one Big Data problem 😄"
 
 ---------
 
-### First part: Probability.
+### First part: Probability
+
 Within this part we were asked to solve probable questions.
 Some of which were solved with the help of Bayes' theorem, random variables,  inference and understanding from graphs.
 
 ---------
 
-### Second part: Programming.
+### Second part: Programming
+
+In this section we were asked to answer a number of questions that indicate the ability to understand and internalize what is learned throughout the course related to pandas, numpy etc...
 
 ---------
 
-### Third part: Machine Learning.
-
+### Third part: Machine Learning
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -72,53 +70,29 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Languages and Tools:
+<!-- Classification -->
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+### Classification
+
+<!-- Regression -->
+
+### Regression
+
+
+---------
+
+## Languages and Tools
+
   <div align="center">
   
- <code>
  <code><img height="40"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
  <code><img height="40" src="https://jupyter.org/assets/main-logo.svg"/></code>
-  <code><img height="40" width="80" src="https://pandas.pydata.org/static/img/pandas_white.svg"/></code>
-  <code><img height="40" width="80" src="https://pandas.pydata.org/static/img/partners/anaconda.svg"/></code>
-  <code><img height="40" width="80" src="https://matplotlib.org/_static/logo2_compressed.svg"/></code>
+ <code><img height="40" width="80" src="https://pandas.pydata.org/static/img/pandas_white.svg"/></code>
+ <code><img height="40" width="80" src="https://pandas.pydata.org/static/img/partners/anaconda.svg"/></code>
+ <code><img height="40" width="80" src="https://matplotlib.org/_static/logo2_compressed.svg"/></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   </div>
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -127,35 +101,10 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- CONTACT -->
-## Contact
-
- Gal - koazgal@gmail.com
-
-Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/GalKoaz/Final-assignment)
-
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -169,22 +118,13 @@ Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/G
 * [Git-scm](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 
+<!-- CONTACT -->
+## Contact
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+ Gal - koazgal@gmail.com
+
+Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/GalKoaz/Final-assignment)
+
 
 <!-- SUPPORT -->
 ## Support
