@@ -33,7 +33,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Introduction to Data Science Final Project 2020 
+Introduction to Data Science Final Project 2020
+
 In this project we will use all the tools we learned during the course on machine learning, in the first stage we will deal with the ability to solve probability exercises, in the second stage we will focus on our internalization and realization of tools learned for pandas, numpy and visualization, in the last part we will focus on machine learning.
 Which includes classification and regression, ie the ability to take a data set and analyze it to predict exact values and use appropriate models for this.
 
@@ -115,16 +116,6 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 
 
-
-<!-- CONTACT -->
-## Contact
-
- Gal - koazgal@gmail.com
-
-Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/GalKoaz/Final-assignment)
-
-
-
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Jupyter](https://jupyter.org/)
@@ -136,22 +127,13 @@ Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/G
 * [Git-scm](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 
+<!-- CONTACT -->
+## Contact
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+ Gal - koazgal@gmail.com
+
+Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/GalKoaz/Final-assignment)
+
 
 <!-- SUPPORT -->
 ## Support
