@@ -19,13 +19,6 @@
       <li><a href="#languages-and-tools">Languages and Tools</a></li>
          </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -39,17 +32,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Final assignment data science
 
-This assignment consists of three parts :
+Introduction to Data Science Final Project 2020 
+In this project we will use all the tools we learned during the course on machine learning, in the first stage we will deal with the ability to solve probability exercises, in the second stage we will focus on our internalization and realization of tools learned for pandas, numpy and visualization, in the last part we will focus on machine learning.
+Which includes classification and regression, ie the ability to take a data set and analyze it to predict exact values and use appropriate models for this.
 
-When each stage has a notebook.
-
-First stage: Probability.
-
-Second stage: Programming.
-
-Third stage: Machine Learning.
+"The world is just a one Big Data problem 😄"
 
 ---------
 
@@ -80,6 +68,8 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
+---------
+
 ### Languages and Tools:
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -94,37 +84,6 @@ This section should list any major frameworks that you built your project using.
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   </div>
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 
 
