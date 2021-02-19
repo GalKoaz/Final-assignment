@@ -20,6 +20,7 @@
         <a href="#regression">Regression</a>
       </li></ul>
       </li>
+      </ul>
     <li><a href="#languages-and-tools">Languages and Tools</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
