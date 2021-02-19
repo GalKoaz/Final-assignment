@@ -21,6 +21,7 @@
         <a href="#regression">Regression</a>
       </li></ul>
       </li>
+    </li>
       </li>
     <li><a href="#languages-and-tools">Languages and Tools</a></li>
     <li><a href="#usage">Usage</a></li>
