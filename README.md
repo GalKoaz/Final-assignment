@@ -14,7 +14,7 @@
       </ul>
             <ul>
         <li><a href="#third-part-machine-learning">Third part: Machine Learning</a></li>
-      </ul>
+      </ul><ul><li><a href="#classification">Classification</a></li></ul>
       </li>
     <li><a href="#languages-and-tools">Languages and Tools</a></li>
     <li><a href="#usage">Usage</a></li>
@@ -55,7 +55,6 @@ In this section we were asked to answer a number of questions that indicate the 
 
 ### Third part: Machine Learning
 
-
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
@@ -66,6 +65,15 @@ Here's why:
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
+<!-- Classification -->
+
+### Classification
+
+<!-- Regression -->
+
+### Regression
+
 
 ---------
 
