@@ -15,10 +15,8 @@
             <ul>
         <li><a href="#third-part-machine-learning">Third part: Machine Learning</a></li>
       </ul>
-       <ul>
-      <li><a href="#languages-and-tools">Languages and Tools</a></li>
-         </ul>
-    </li>
+      </li>
+    <li><a href="#languages-and-tools">Languages and Tools</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
