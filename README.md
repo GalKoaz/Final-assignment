@@ -22,7 +22,6 @@
       </li>
       </ul>
     <li><a href="#languages-and-tools">Languages and Tools</a></li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#support">Support</a></li>
@@ -61,13 +60,18 @@ In this section we were asked to answer a number of questions that indicate the 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+In Each Notebooke we following in these steps for make sure we working by the book !
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+* Step 1 - Import Libraries and load the data.
+* Step 2 - Data Cleaning, checking for nulls value and fill them.
+* Step 3 - Variable Descriptions, Discover and Visualize the Data to Gain Insights.
+* Step 4 - Split the data into train and test.
+* Step 5 - Applying Machine Learning Models.
+* Step 6 - Evaluting each Model and fine tuning in order to achieve the best results.
+* Step 7 - Determining which Model is optimal for our data set.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+
+---------
 
 <!-- Classification -->
 
@@ -85,6 +89,8 @@ I'm pretty sure its make u a little curious, So what are you waiting for ??
 
 get in quickly to explore my work! 😀
 
+---------
+
 <!-- Regression -->
 
 ### Regression
@@ -93,10 +99,9 @@ Who does not like to drink a good Wine 🍷🍷🍷 with the pizza or pasta ?!?
 
 I chose to work on a dataset to predict the quality of the Wine (to make sure u always drinks the best)!
 
-The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: [Web Link] or the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
+The winequality-red.csv dataset are related to red variants of the Portuguese "Vinho Verde" wine. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
-These datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.
-
+This dataset can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.
 
 ---------
 
@@ -112,13 +117,6 @@ These datasets can be viewed as classification or regression tasks. The classes 
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   </div>
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -143,4 +141,7 @@ Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/G
 <!-- SUPPORT -->
 ## Support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped you in some way (For The Good Karma 😇)!
+
+---------
+GK ©
