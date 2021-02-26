@@ -74,14 +74,19 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Classification
 
-Who does not like mushrooms in his pizza or pasta ?!?
+🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄
+
+Who does not like mushrooms in his pizza or pasta ?!? 
+
 I chose to work on a dataset to predict whether a mushrooms is edible or poisonous!
 
 mushrooms.csv dataset includes descriptions of hypothetical samples corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family Mushroom drawn from The Audubon Society Field Guide to North American Mushrooms (1981). Each species is identified as definitely edible, definitely poisonous, or of unknown edibility and not recommended. This latter class was combined with the poisonous one.
 
 * Time period: Donated to UCI ML 27 April 1987
 
-So what are you waiting for ?? get in quickly to explore my work!
+I'm pretty sure its make u a little curious, So what are you waiting for ?? 
+
+get in quickly to explore my work! 😀
 <!-- Regression -->
 
 ### Regression
