@@ -23,7 +23,6 @@
       </ul>
     <li><a href="#languages-and-tools">Languages and Tools</a></li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     <li><a href="#support">Support</a></li>
@@ -74,9 +73,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 ### Classification
 
-🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄🍄
-
-Who does not like mushrooms in his pizza or pasta ?!? 
+Who does not like mushrooms 🍄🍄🍄 in his pizza or pasta ?!? 
 
 I chose to work on a dataset to predict whether a mushrooms is edible or poisonous!
 
@@ -87,9 +84,18 @@ mushrooms.csv dataset includes descriptions of hypothetical samples correspondin
 I'm pretty sure its make u a little curious, So what are you waiting for ?? 
 
 get in quickly to explore my work! 😀
+
 <!-- Regression -->
 
 ### Regression
+
+Who does not like to drink a good Wine 🍷🍷🍷 with the pizza or pasta ?!?
+
+I chose to work on a dataset to predict the quality of the Wine (to make sure u always drinks the best)!
+
+The two datasets are related to red and white variants of the Portuguese "Vinho Verde" wine. For more details, consult: [Web Link] or the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
+
+These datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are many more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines. Also, we are not sure if all input variables are relevant. So it could be interesting to test feature selection methods.
 
 
 ---------
@@ -113,11 +119,6 @@ get in quickly to explore my work! 😀
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 
 <!-- ACKNOWLEDGEMENTS -->
