@@ -2,7 +2,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Content</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a>
       <ul>
@@ -57,10 +57,10 @@ In this section we were asked to answer a number of questions that indicate the 
 
 ### Third part: Machine Learning
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+At this part you will be impressed by the ability to analyze information with the help of machine learning which gives us the ability to predict numerical predictions which are beneficial to man and even to the whole globe,
+In the following lines I will explain exactly all the data on which I performed the work, grab the coffee and cookies and tighten the belt before takeoff.
 
-Here's why:
-In Each Notebooke we following in these steps for make sure we working by the book !
+In Each Notebook (Classification, Regression) we following in these steps for make sure we working by the book !
 
 * Step 1 - Import Libraries and load the data.
 * Step 2 - Data Cleaning, checking for nulls value and fill them.
@@ -69,6 +69,7 @@ In Each Notebooke we following in these steps for make sure we working by the bo
 * Step 5 - Applying Machine Learning Models.
 * Step 6 - Evaluting each Model and fine tuning in order to achieve the best results.
 * Step 7 - Determining which Model is optimal for our data set.
+
 
 
 ---------
@@ -142,6 +143,3 @@ Project Link: [https://github.com/GalKoaz/Final-assignment](https://github.com/G
 ## Support
 
 Give a ⭐️ if this project helped you in some way (For The Good Karma 😇)!
-
----------
-GK ©
