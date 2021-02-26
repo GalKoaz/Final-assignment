@@ -58,9 +58,11 @@ In this section we were asked to answer a number of questions that indicate the 
 ### Third part: Machine Learning
 
 At this part you will be impressed by the ability to analyze information with the help of machine learning which gives us the ability to predict numerical predictions which are beneficial to man and even to the whole globe,
-In the following lines I will explain exactly all the data on which I performed the work, grab the coffee and cookies and tighten the belt before takeoff.
+In the following lines I will explain exactly all the data on which I performed the work.
 
-In Each Notebook (Classification, Regression) we following in these steps for make sure we working by the book !
+So, grab the coffee and cookies and tighten the belt before takeoff!
+
+In Each Notebook (Classification, Regression) we following in these steps for make sure we working by the book.
 
 * Step 1 - Import Libraries and load the data.
 * Step 2 - Data Cleaning, checking for nulls value and fill them.
