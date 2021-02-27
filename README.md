@@ -92,6 +92,10 @@ I'm pretty sure its make u a little curious, So what are you waiting for ??
 
 get in quickly to explore my work! 😀
 
+* *link to my kaggle Classification:
+
+https://www.kaggle.com/galkoaz/mushroom-classification-knn-randomforest-100
+
 ---------
 
 <!-- Regression -->
